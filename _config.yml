@@ -1,10 +1,10 @@
 excerpt_separator: ""
-pygments: true
+pygments: rouge
 markdown: kramdown
 url: http://blog.tieks4.tk
 name: Tieks4
 description: ""
 author: Tieks
-avatar: http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=120&d=mm&r=g
+avatar: http://gravatar.com/avatar/4cf519dc46b9fd28fdf3881fc1e14fc6?s=120&d=mm&r=g
 ga_domain: 
 ga_tracking_id: 
